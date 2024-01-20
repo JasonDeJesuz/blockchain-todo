@@ -1,0 +1,23 @@
+# Dependencies
+/node_modules
+/package-lock.json
+/yarn.lock
+
+# Truffle build directory
+/build
+
+# Environment files
+.env
+.secret
+
+# MacOS system files
+.DS_Store
+
+# Editor directories and files
+.idea
+*.swp
+*.swo
+*.sublime-workspace
+
+# Windows system files
+Thumbs.db
